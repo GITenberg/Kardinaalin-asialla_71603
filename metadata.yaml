@@ -6,6 +6,9 @@ contributor:
     alias: Hameen-Anttila, Mary
     gutenberg_agent_id: '48109'
     url: http://www.gutenberg.org/2009/agents/48109
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weyman, Stanley John
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/742
     wikipedia: https://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71603#Kardinaalin-asialla
 gutenberg_issued: '2023-09-09'
 identifiers:
   gutenberg: '71603'
